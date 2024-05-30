@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690717939270",
+    "project_id": "projetemg-20e32",
+    "storage_bucket": "projetemg-20e32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690717939270:android:2dc4ad3a5a7da433811c47",
+        "android_client_info": {
+          "package_name": "com.example.emg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-UbvSTJ81bsuiKZhozyUzxZ-IuQa-OgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
